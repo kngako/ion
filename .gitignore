@@ -19,3 +19,6 @@ other
 ./islb
 .idea
 node_modules/
+configs/*.pid
+nohup.out
+sdk/js/demo/dist/
