@@ -95,8 +95,8 @@ export default class Client extends EventEmitter {
                     }
                 }
             } catch (error) {
+                console.error('publish request error  => ' + error);
                 throw error;
-                console.log('publish request error  => ' + error);
                 pc.close();
                 reject(error);
             }
@@ -299,10 +299,7 @@ export default class Client extends EventEmitter {
     }
 
     _getProtooUrl(pid) {
-        const hostname = window.location.hostname;
-        const websocketProtocol = location.protocol === 'https:' ? 'wss' : 'ws'
-        let url = `${websocketProtocol}://${hostname}:${this._port}/ws?peer=${pid}`;
-        return url;
+        return `wss://ws.sigidli.com/ws?peer=${pid}`;
     }
 
     _handleRequest(request, accept, reject) {

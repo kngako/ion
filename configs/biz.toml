@@ -17,10 +17,10 @@ addrs = ["127.0.0.1:2379"]
 
 [signal]
 #listen ip port
-host = "0.0.0.0"
-port = "8443"
-cert= "configs/cert.pem"
-key= "configs/key.pem"
+host = "localhost"
+port = "8338"
+# cert= "configs/cert.pem"
+# key= "configs/key.pem"
 
 [nats]
 url = "nats://127.0.0.1:4222"
