@@ -109,7 +109,7 @@ func (b *Buffer) Push(p *rtp.Packet) {
 
 	if b.lastPushSN-b.lastNackSN >= maxNackLostSize {
 		// calc [lastNackSN, lastpush-8] if has keyframe
-		nackPair, lostPkt := b.GetNackPair(b.pktBuffer, b.lastNackSN, b.lastPushSN)
+		nackPair, lostPkt := b.GetNackPair(&b.pktBuffer, b.lastNackSN, b.lastPushSN)
 		b.lastNackSN = b.lastPushSN
 		// log.Infof("b.lastNackSN=%v, b.lastPushSN=%v, lostPkt=%v, nackPair=%v", b.lastNackSN, b.lastPushSN, lostPkt, nackPair)
 		if lostPkt > 0 {
@@ -171,7 +171,7 @@ func (b *Buffer) GetStat() string {
 }
 
 // GetNackPair calc nackpair
-func (b *Buffer) GetNackPair(buffer [65536]*rtp.Packet, begin, end uint16) (rtcp.NackPair, int) {
+func (b *Buffer) GetNackPair(buffer *[65536]*rtp.Packet, begin, end uint16) (rtcp.NackPair, int) {
 
 	var lostPkt int
 
@@ -186,7 +186,7 @@ func (b *Buffer) GetNackPair(buffer [65536]*rtp.Packet, begin, end uint16) (rtcp
 
 	//find first lost pkt
 	for i := begin; i < end; i++ {
-		if buffer[i] == nil {
+		if (*buffer)[i] == nil {
 			lost = i
 			lostPkt++
 			break
@@ -201,12 +201,12 @@ func (b *Buffer) GetNackPair(buffer [65536]*rtp.Packet, begin, end uint16) (rtcp
 	//calc blp
 	for i := lost; i < end; i++ {
 		//calc from next lost packet
-		if i > lost && buffer[i] == nil {
+		if i > lost && (*buffer)[i] == nil {
 			blp = blp | (1 << (i - lost - 1))
 			lostPkt++
 		}
 	}
-	log.Debugf("NackPair begin=%v end=%v buffer=%v\n", begin, end, buffer[begin:end])
+	log.Debugf("NackPair begin=%v end=%v buffer=%v\n", begin, end, (*buffer)[begin:end])
 	return rtcp.NackPair{PacketID: lost, LostPackets: rtcp.PacketBitmap(blp)}, lostPkt
 }
 
