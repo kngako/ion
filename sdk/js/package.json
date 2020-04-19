@@ -26,7 +26,8 @@
     "lodash": "^4.17.15",
     "protoo-client": "^4.0.3",
     "sdp-transform": "^2.13.0",
-    "uuid": "^3.3.2"
+    "uuid": "^3.3.2",
+    "webrtc-adapter": "^7.5.1"
   },
   "keywords": [
     "pion",

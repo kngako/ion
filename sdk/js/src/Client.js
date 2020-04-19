@@ -3,6 +3,7 @@ import protooClient from 'protoo-client';
 import uuidv4 from 'uuid/v4';
 import Stream from './Stream';
 import * as sdpTransform from 'sdp-transform';
+import adapter from 'webrtc-adapter';
 
 const ices = 'stun:stun.stunprotocol.org:3478';
 
