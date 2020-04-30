@@ -135,12 +135,15 @@ export default class Client extends EventEmitter {
                 pc.onicecandidate = async (e) => {
                     if (!pc.sendOffer) {
                         var jsep = pc.localDescription;
-                        console.log('Send offer sdp => ' + jsep.sdp);
+                        jsep.sdp = this._sdpRemoveCodec(jsep.sdp, "H264");
+                        jsep.sdp = this._sdpRemoveCodec(jsep.sdp, "VP9");
+                        console.log('Send offer sdp => ', jsep.sdp);
                         pc.sendOffer = true
                         let result = await this._protoo.request('subscribe', { rid, jsep, mid });
+                        console.log("Result: ", result);
                         sub_mid = result['mid'];
                         console.log('subscribe success => result(mid: ' + sub_mid + ') sdp => ' + result.jsep.sdp);
-                        await pc.setRemoteDescription(result.jsep);
+                        await pc.setRemoteDescription(new RTCSessionDescription(result.jsep));
                     }
                 }
             } catch (error) {
@@ -150,6 +153,43 @@ export default class Client extends EventEmitter {
         });
         return promise;
     }
+
+    _sdpRemoveCodec(sdp, codecName) {
+        const sdpObj = sdpTransform.parse(sdp);
+      
+        //console.log("OLD sdpObj:\n%s", JSON.stringify(sdpObj, null, 2));
+      
+        const videoMedia = sdpObj.media.find((media) => media["type"] == "video");
+      
+        // Get all "rtpmap" entries for the given codec
+        const codecmaps = videoMedia.rtp.filter((cmap) => cmap.codec === codecName);
+        if (!codecmaps.length) {
+          // Nothing to do: "codecName" is not present in the given SDP
+          return sdp;
+        }
+      
+        // Get the PayloadType(s) of the codec, and remove them from all arrays
+        codecmaps.forEach((cmap) => {
+          const payload = cmap.payload;
+      
+          videoMedia.rtp = videoMedia.rtp.filter((elem) => elem.payload != payload);
+      
+          videoMedia.fmtp = videoMedia.fmtp.filter((elem) => elem.payload != payload);
+      
+          videoMedia.rtcpFb = videoMedia.rtcpFb.filter(
+            (elem) => elem.payload != payload
+          );
+      
+          videoMedia.payloads = videoMedia.payloads
+            .split(" ")
+            .filter((str) => parseInt(str, 10) != payload)
+            .join(" ");
+        });
+      
+        //console.log("NEW sdpObj:\n%s", JSON.stringify(sdpObj, null, 2));
+      
+        return sdpTransform.write(sdpObj);
+      }
 
     async unsubscribe(rid, mid) {
         console.log('unsubscribe rid => %s, mid => %s', rid, mid);
@@ -300,7 +340,7 @@ export default class Client extends EventEmitter {
     }
 
     _getProtooUrl(pid) {
-        return `wss://ws.sigidli.com/ws?peer=${pid}`;
+        return `ws://localhost:8080/ws?peer=${pid}`;
     }
 
     _handleRequest(request, accept, reject) {

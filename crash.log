@@ -1,0 +1,766 @@
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:287kbps | buffer:[65419, 4917] | lastNackSN:4907 | lostRate:0.00 |
+
+2020-04-18 21:17:30.107 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 574.00 Kb/s
+2020-04-18 21:17:31.218 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:32.928 INF 
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:597kbps | buffer:[65419, 5232] | lastNackSN:5232 | lostRate:0.00 |
+
+2020-04-18 21:17:33.26 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:33.929 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 1.02 Mb/s
+2020-04-18 21:17:34.225 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:34.838 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:35.767 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 768.00 Kb/s
+2020-04-18 21:17:35.453 INF 
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:724kbps | buffer:[65419, 5507] | lastNackSN:5501 | lostRate:0.00 |
+
+2020-04-18 21:17:36.389 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:36.853 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:38.295 INF 
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:473kbps | buffer:[65419, 5760] | lastNackSN:5747 | lostRate:0.00 |
+
+2020-04-18 21:17:38.11 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 1.02 Mb/s
+2020-04-18 21:17:38.53 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:38.53 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:38.53 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 946.00 Kb/s
+2020-04-18 21:17:38.53 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:38.721 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:39.032 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 1.02 Mb/s
+2020-04-18 21:17:39.79 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:41.131 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:41.668 INF 
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:360kbps | buffer:[65419, 6104] | lastNackSN:6104 | lostRate:0.00 |
+
+2020-04-18 21:17:42.572 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 720.00 Kb/s
+2020-04-18 21:17:43.803 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:43.972 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:44.319 INF 
+----------------rtc-----------------
+pub: 2dd8a29d-f393-40db-9014-8a59385c86c8#LYWHKP
+ssrc:1868877507 payload:96 | lostRate:0.00 | bandwidth:390kbps | buffer:[65419, 6189] | lastNackSN:6172 | lostRate:0.00 |
+
+2020-04-18 21:17:44.619 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 780.00 Kb/s
+2020-04-18 21:17:45.628 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:45.633 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+2020-04-18 21:17:45.633 INF Router.jitter r.GetPub().WriteRTCP ReceiverEstimatedMaximumBitrate 6f64cec3 690.00 Kb/s
+2020-04-18 21:17:46.551 INF Router.jitter r.GetPub().WriteRTCP PictureLossIndication 6f64cec3 6f64cec3
+fatal error: runtime: out of memory
+
+runtime stack:
+runtime.throw(0xef15aa, 0x16)
+	/usr/local/go/src/runtime/panic.go:1116 +0x72
+runtime.sysMap(0xc028000000, 0x4000000, 0x1739d78)
+	/usr/local/go/src/runtime/mem_linux.go:169 +0xc5
+runtime.(*mheap).sysAlloc(0x17251a0, 0x400000, 0x17251a8, 0x40)
+	/usr/local/go/src/runtime/malloc.go:715 +0x1cd
+runtime.(*mheap).grow(0x17251a0, 0x40, 0x0)
+	/usr/local/go/src/runtime/mheap.go:1286 +0x11c
+runtime.(*mheap).allocSpan(0x17251a0, 0x40, 0x430000, 0x1739d88, 0x200000001)
+	/usr/local/go/src/runtime/mheap.go:1124 +0x6a0
+runtime.(*mheap).alloc.func1()
+	/usr/local/go/src/runtime/mheap.go:871 +0x64
+runtime.(*mheap).alloc(0x17251a0, 0x40, 0x200460100, 0x17251a0)
+	/usr/local/go/src/runtime/mheap.go:865 +0x81
+runtime.largeAlloc(0x80000, 0xc000330001, 0x4)
+	/usr/local/go/src/runtime/malloc.go:1152 +0x92
+runtime.mallocgc.func1()
+	/usr/local/go/src/runtime/malloc.go:1047 +0x46
+runtime.systemstack(0x0)
+	/usr/local/go/src/runtime/asm_amd64.s:370 +0x66
+runtime.mstart()
+	/usr/local/go/src/runtime/proc.go:1041
+
+goroutine 845599 [running]:
+runtime.systemstack_switch()
+	/usr/local/go/src/runtime/asm_amd64.s:330 fp=0xc000601d70 sp=0xc000601d68 pc=0x466450
+runtime.mallocgc(0x80000, 0xd70540, 0xd9e9c7495dc8601, 0xc027f80000)
+	/usr/local/go/src/runtime/malloc.go:1046 +0x895 fp=0xc000601e10 sp=0xc000601d70 pc=0x40e645
+runtime.newobject(0xd70540, 0xc027f80000)
+	/usr/local/go/src/runtime/malloc.go:1165 +0x38 fp=0xc000601e40 sp=0xc000601e10 pc=0x40e938
+github.com/pion/ion/pkg/rtc/plugins.(*Buffer).GetNackPair(0xc01d564000, 0xc0208c3d40, 0xc0208c3dd0, 0xc02091e630, 0xc020ebe090, 0xc020ebe120, 0xc020ebe1b0, 0xc020ebe240, 0xc020ebe2d0, 0xc020ebe360, ...)
+	~/ion/pkg/rtc/plugins/buffer.go:174 +0x3f fp=0xc000601ed0 sp=0xc000601e40 pc=0xc6acef
+github.com/pion/ion/pkg/rtc/plugins.(*Buffer).Push(0xc01d564000, 0xc0275ec6c0)
+	~/ion/pkg/rtc/plugins/buffer.go:112 +0x1ca fp=0xc000701f20 sp=0xc000601ed0 pc=0xc6a7fa
+github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).PushRTP(0xc012210730, 0xc0275ec6c0, 0xc, 0x10657a0)
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:119 +0x75 fp=0xc000701f58 sp=0xc000701f20 pc=0xc6b885
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc0001309a0)
+	~/ion/pkg/rtc/router.go:119 +0x20f fp=0xc000701fd8 sp=0xc000701f58 pc=0xcacb6f
+runtime.goexit()
+	/usr/local/go/src/runtime/asm_amd64.s:1373 +0x1 fp=0xc000701fe0 sp=0xc000701fd8 pc=0x468561
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 1 [select (no cases), 103 minutes]:
+main.main()
+	~/ion/cmd/sfu/main.go:54 +0x266
+
+goroutine 9 [chan receive]:
+github.com/pion/ion/pkg/rtc.check()
+	~/ion/pkg/rtc/rtc.go:142 +0x5ad
+created by github.com/pion/ion/pkg/rtc.Init
+	~/ion/pkg/rtc/rtc.go:39 +0xa9
+
+goroutine 10 [IO wait, 103 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5e68, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc0000cd898, 0x72, 0x2000, 0x2000, 0x0)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).ReadFrom(0xc0000cd880, 0xc0000e5f98, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:219 +0x1a3
+net.(*netFD).readFrom(0xc0000cd880, 0xc0000e5f98, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc000010e30, 0xc0000e5f98, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc000010e30, 0xc0000e5f98, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ion/pkg/rtc/rtpengine/udp.(*Listener).readLoop(0xc0001b9b90)
+	~/ion/pkg/rtc/rtpengine/udp/conn.go:119 +0xc3
+created by github.com/pion/ion/pkg/rtc/rtpengine/udp.Listen
+	~/ion/pkg/rtc/rtpengine/udp/conn.go:98 +0x185
+
+goroutine 11 [semacquire, 103 minutes]:
+sync.runtime_Semacquire(0xc0001b9be0)
+	/usr/local/go/src/runtime/sema.go:56 +0x42
+sync.(*WaitGroup).Wait(0xc0001b9bd8)
+	/usr/local/go/src/sync/waitgroup.go:130 +0x64
+github.com/pion/ion/pkg/rtc/rtpengine/udp.Listen.func1(0xc0001b9b90)
+	~/ion/pkg/rtc/rtpengine/udp/conn.go:100 +0x35
+created by github.com/pion/ion/pkg/rtc/rtpengine/udp.Listen
+	~/ion/pkg/rtc/rtpengine/udp/conn.go:99 +0x1a7
+
+goroutine 12 [select, 103 minutes]:
+github.com/pion/ion/pkg/rtc/rtpengine/udp.(*Listener).Accept(0xc0001b9b90, 0x0, 0x0, 0x0)
+	~/ion/pkg/rtc/rtpengine/udp/conn.go:39 +0xb3
+github.com/pion/ion/pkg/rtc/rtpengine.Serve.func1(0xc0001810e0)
+	~/ion/pkg/rtc/rtpengine/engine.go:46 +0x3e
+created by github.com/pion/ion/pkg/rtc/rtpengine.Serve
+	~/ion/pkg/rtc/rtpengine/engine.go:41 +0x1f2
+
+goroutine 13 [chan receive, 103 minutes]:
+github.com/pion/ion/pkg/rtc.Init.func1(0xc0001810e0)
+	~/ion/pkg/rtc/rtc.go:59 +0x1ec
+created by github.com/pion/ion/pkg/rtc.Init
+	~/ion/pkg/rtc/rtc.go:53 +0x18a
+
+goroutine 14 [IO wait, 103 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5d88, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc0001e0a18, 0x72, 0x0, 0x0, 0xee39c3)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).Accept(0xc0001e0a00, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:384 +0x1d4
+net.(*netFD).accept(0xc0001e0a00, 0xc000061da8, 0xc000052700, 0x7ff640161108)
+	/usr/local/go/src/net/fd_unix.go:238 +0x42
+net.(*TCPListener).accept(0xc0001e22c0, 0xc000061de8, 0x40e938, 0x30)
+	/usr/local/go/src/net/tcpsock_posix.go:139 +0x32
+net.(*TCPListener).Accept(0xc0001e22c0, 0xe55d00, 0xc0001c8b70, 0xda44a0, 0x16f2f10)
+	/usr/local/go/src/net/tcpsock.go:261 +0x64
+net/http.(*Server).Serve(0xc000118620, 0x1062ae0, 0xc0001e22c0, 0x0, 0x0)
+	/usr/local/go/src/net/http/server.go:2901 +0x25d
+net/http.(*Server).ListenAndServe(0xc000118620, 0xc000118620, 0xc00004afc0)
+	/usr/local/go/src/net/http/server.go:2830 +0xb7
+net/http.ListenAndServe(...)
+	/usr/local/go/src/net/http/server.go:3086
+main.main.func1()
+	~/ion/cmd/sfu/main.go:44 +0xe9
+created by main.main
+	~/ion/cmd/sfu/main.go:42 +0x71
+
+goroutine 15 [select, 103 minutes]:
+google.golang.org/grpc.(*ccBalancerWrapper).watcher(0xc000151500)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/balancer_conn_wrappers.go:115 +0x10f
+created by google.golang.org/grpc.newCCBalancerWrapper
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/balancer_conn_wrappers.go:106 +0x169
+
+goroutine 21 [IO wait]:
+internal/poll.runtime_pollWait(0x7ff63ffe5ca8, 0x72, 0xffffffffffffffff)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc0001e0b98, 0x72, 0x8000, 0x8000, 0xffffffffffffffff)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).Read(0xc0001e0b80, 0xc0001f6000, 0x8000, 0x8000, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:169 +0x19b
+net.(*netFD).Read(0xc0001e0b80, 0xc0001f6000, 0x8000, 0x8000, 0x800010601, 0x0, 0x1060100000000)
+	/usr/local/go/src/net/fd_unix.go:202 +0x4f
+net.(*conn).Read(0xc000010f10, 0xc0001f6000, 0x8000, 0x8000, 0x0, 0x0, 0x0)
+	/usr/local/go/src/net/net.go:184 +0x8e
+bufio.(*Reader).Read(0xc000181d40, 0xc000118738, 0x9, 0x9, 0xc000147880, 0x7ff640161108, 0x0)
+	/usr/local/go/src/bufio/bufio.go:226 +0x24f
+io.ReadAtLeast(0x104c920, 0xc000181d40, 0xc000118738, 0x9, 0x9, 0x9, 0x457e13, 0x5415be70118ad, 0xc000062e68)
+	/usr/local/go/src/io/io.go:310 +0x87
+io.ReadFull(...)
+	/usr/local/go/src/io/io.go:329
+golang.org/x/net/http2.readFrameHeader(0xc000118738, 0x9, 0x9, 0x104c920, 0xc000181d40, 0x0, 0xbf9ef97e00000000, 0x5b4e5c2558b, 0x170ca40)
+	/home/network/work/pkg/mod/golang.org/x/net@v0.0.0-20200301022130-244492dfa37a/http2/frame.go:237 +0x87
+golang.org/x/net/http2.(*Framer).ReadFrame(0xc000118700, 0xc0272ec7c0, 0xc0272ec7c0, 0x0, 0x0)
+	/home/network/work/pkg/mod/golang.org/x/net@v0.0.0-20200301022130-244492dfa37a/http2/frame.go:492 +0xa1
+google.golang.org/grpc/internal/transport.(*http2Client).reader(0xc0000f0700)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/http2_client.go:1236 +0x167
+created by google.golang.org/grpc/internal/transport.newHTTP2Client
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/http2_client.go:286 +0xd48
+
+goroutine 32 [select, 103 minutes]:
+google.golang.org/grpc.newClientStream.func5(0xc000147c00, 0xc000155320, 0x10655e0, 0xc0001c9bc0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:320 +0xd7
+created by google.golang.org/grpc.newClientStream
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:319 +0xbbf
+
+goroutine 19 [chan receive, 103 minutes]:
+google.golang.org/grpc.(*addrConn).resetTransport(0xc000122dc0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/clientconn.go:1107 +0x656
+created by google.golang.org/grpc.(*addrConn).connect
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/clientconn.go:767 +0x120
+
+goroutine 22 [select]:
+google.golang.org/grpc/internal/transport.(*controlBuffer).get(0xc0001e4240, 0x1, 0x0, 0x0, 0x0, 0x0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/controlbuf.go:317 +0x11a
+google.golang.org/grpc/internal/transport.(*loopyWriter).run(0xc000181e00, 0x0, 0x0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/controlbuf.go:435 +0x1cd
+google.golang.org/grpc/internal/transport.newHTTP2Client.func3(0xc0000f0700)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/http2_client.go:330 +0x7b
+created by google.golang.org/grpc/internal/transport.newHTTP2Client
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/http2_client.go:328 +0xee5
+
+goroutine 24 [IO wait]:
+internal/poll.runtime_pollWait(0x7ff63ffe5bc8, 0x72, 0xffffffffffffffff)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc0001e0798, 0x72, 0x8000, 0x8000, 0xffffffffffffffff)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).Read(0xc0001e0780, 0xc0002bc000, 0x8000, 0x8000, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:169 +0x19b
+net.(*netFD).Read(0xc0001e0780, 0xc0002bc000, 0x8000, 0x8000, 0x6, 0xc0001b4f00, 0x0)
+	/usr/local/go/src/net/fd_unix.go:202 +0x4f
+net.(*conn).Read(0xc000010f50, 0xc0002bc000, 0x8000, 0x8000, 0x0, 0x0, 0x0)
+	/usr/local/go/src/net/net.go:184 +0x8e
+github.com/nats-io/nats%2ego.(*Conn).readLoop(0xc0000bbb80)
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:2078 +0x16c
+created by github.com/nats-io/nats%2ego.(*Conn).processConnectInit
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:1446 +0x194
+
+goroutine 25 [chan receive, 19 minutes]:
+github.com/nats-io/nats%2ego.(*Conn).flusher(0xc0000bbb80)
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:2328 +0xe9
+created by github.com/nats-io/nats%2ego.(*Conn).processConnectInit
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:1447 +0x1b6
+
+goroutine 26 [sync.Cond.Wait, 103 minutes]:
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:310
+sync.runtime_notifyListWait(0xc000151fd0, 0x0)
+	/usr/local/go/src/runtime/sema.go:513 +0xf8
+sync.(*Cond).Wait(0xc000151fc0)
+	/usr/local/go/src/sync/cond.go:56 +0x9d
+github.com/nats-io/nats%2ego.(*asyncCallbacksHandler).asyncCBDispatcher(0xc0001e2140)
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:1993 +0x35
+created by github.com/nats-io/nats%2ego.Options.Connect
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:1026 +0x209
+
+goroutine 27 [sync.Cond.Wait, 19 minutes]:
+runtime.goparkunlock(...)
+	/usr/local/go/src/runtime/proc.go:310
+sync.runtime_notifyListWait(0xc0001e4750, 0xc000000009)
+	/usr/local/go/src/runtime/sema.go:513 +0xf8
+sync.(*Cond).Wait(0xc0001e4740)
+	/usr/local/go/src/sync/cond.go:56 +0x9d
+github.com/nats-io/nats%2ego.(*Conn).waitForMsgs(0xc0000bbb80, 0xc00010e300)
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:2114 +0x414
+created by github.com/nats-io/nats%2ego.(*Conn).subscribe
+	/home/network/work/pkg/mod/github.com/nats-io/nats.go@v1.9.1/nats.go:2987 +0x527
+
+goroutine 28 [select, 103 minutes]:
+go.etcd.io/etcd/clientv3.(*lessor).keepAliveCtxCloser(0xc0001a4c80, 0x694d7184cfafc663, 0x1065560, 0xc00003a068, 0xc00007f680)
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:327 +0x11f
+created by go.etcd.io/etcd/clientv3.(*lessor).KeepAlive
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:294 +0x287
+
+goroutine 29 [select]:
+google.golang.org/grpc/internal/transport.(*recvBufferReader).readClient(0xc00017dae0, 0xc0001e2f10, 0x5, 0x5, 0x1, 0x0, 0xc0000d9a40)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/transport.go:158 +0xe4
+google.golang.org/grpc/internal/transport.(*recvBufferReader).Read(0xc00017dae0, 0xc0001e2f10, 0x5, 0x5, 0xe72d20, 0x0, 0xc0000d99c0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/transport.go:138 +0x124
+google.golang.org/grpc/internal/transport.(*transportReader).Read(0xc0001c9cb0, 0xc0001e2f10, 0x5, 0x5, 0xc0000d9a7c, 0xc0000d99e8, 0x9bc8dc)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/transport.go:435 +0x55
+io.ReadAtLeast(0x104d8e0, 0xc0001c9cb0, 0xc0001e2f10, 0x5, 0x5, 0x5, 0x26, 0x0, 0x0)
+	/usr/local/go/src/io/io.go:310 +0x87
+io.ReadFull(...)
+	/usr/local/go/src/io/io.go:329
+google.golang.org/grpc/internal/transport.(*Stream).Read(0xc0000cff00, 0xc0001e2f10, 0x5, 0x5, 0xe9b3c0, 0x7ff63ffea430, 0xc00007f8c0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/internal/transport/transport.go:419 +0xc7
+google.golang.org/grpc.(*parser).recvMsg(0xc0001e2f00, 0x7fffffff, 0x28, 0x28, 0x0, 0x0, 0x105f0a0, 0x0)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/rpc_util.go:508 +0x63
+google.golang.org/grpc.recvAndDecompress(0xc0001e2f00, 0xc0000cff00, 0x0, 0x0, 0x7fffffff, 0x0, 0x0, 0x0, 0xc00936cb10, 0x28, ...)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/rpc_util.go:639 +0x4d
+google.golang.org/grpc.recv(0xc0001e2f00, 0x7ff63ffea298, 0x1737c18, 0xc0000cff00, 0x0, 0x0, 0xe9b3c0, 0xc0003f1cc0, 0x7fffffff, 0x0, ...)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/rpc_util.go:684 +0x9b
+google.golang.org/grpc.(*csAttempt).recvMsg(0xc0001e0f80, 0xe9b3c0, 0xc0003f1cc0, 0x0, 0x40e0c6, 0xc0002b0000)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:868 +0xed
+google.golang.org/grpc.(*clientStream).RecvMsg.func1(0xc0001e0f80, 0x203000, 0x203000)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:719 +0x46
+google.golang.org/grpc.(*clientStream).withRetry(0xc000155320, 0xc0000d9e68, 0xc0000d9e38, 0xc0002981e0, 0x20)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:573 +0x360
+google.golang.org/grpc.(*clientStream).RecvMsg(0xc000155320, 0xe9b3c0, 0xc0003f1cc0, 0xc0272c91e0, 0xc0001a4c80)
+	/home/network/work/pkg/mod/google.golang.org/grpc@v1.21.0/stream.go:718 +0x103
+github.com/coreos/etcd/etcdserver/etcdserverpb.(*leaseLeaseKeepAliveClient).Recv(0xc000295570, 0xc0003f16c0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/coreos/etcd@v3.3.18+incompatible/etcdserver/etcdserverpb/rpc.pb.go:6614 +0x62
+go.etcd.io/etcd/clientv3.(*lessor).recvKeepAliveLoop(0xc0001a4c80, 0x0, 0x0)
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:444 +0xb0
+created by go.etcd.io/etcd/clientv3.(*lessor).KeepAlive.func1
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:296 +0x43
+
+goroutine 30 [select]:
+go.etcd.io/etcd/clientv3.(*lessor).deadlineLoop(0xc0001a4c80)
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:531 +0x197
+created by go.etcd.io/etcd/clientv3.(*lessor).KeepAlive.func1
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:297 +0x65
+
+goroutine 31 [chan receive]:
+github.com/pion/ion/pkg/discovery.(*Etcd).keep.func1(0xc0001c8270, 0xc0002981e0)
+	~/ion/pkg/discovery/etcd.go:69 +0x36
+created by github.com/pion/ion/pkg/discovery.(*Etcd).keep
+	~/ion/pkg/discovery/etcd.go:62 +0x4cc
+
+goroutine 33 [select]:
+go.etcd.io/etcd/clientv3.(*lessor).sendKeepAliveLoop(0xc0001a4c80, 0x106c2c0, 0xc000295570)
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:571 +0x342
+created by go.etcd.io/etcd/clientv3.(*lessor).resetRecv
+	/home/network/work/pkg/mod/go.etcd.io/etcd@v3.3.18+incompatible/clientv3/lease.go:487 +0x196
+
+goroutine 34 [chan receive, 63 minutes]:
+github.com/pion/ion/pkg/node/sfu.checkRTC.func1()
+	~/ion/pkg/node/sfu/init.go:32 +0xeb
+created by github.com/pion/ion/pkg/node/sfu.checkRTC
+	~/ion/pkg/node/sfu/init.go:31 +0x5f
+
+goroutine 845590 [runnable]:
+syscall.errnoErr(...)
+	/usr/local/go/src/syscall/syscall_unix.go:162
+syscall.recvfrom(0xc, 0xc0127b6000, 0x2000, 0x2000, 0x0, 0xc0033f4cc0, 0xc0033f4cb4, 0x0, 0xc019bda3c0, 0xc0033f4d38)
+	/usr/local/go/src/syscall/zsyscall_linux_amd64.go:1581 +0x115
+syscall.Recvfrom(0xc, 0xc0127b6000, 0x2000, 0x2000, 0x0, 0xc027832d80, 0xc10bba, 0xc012036840, 0xc000147880, 0x7ff640161108)
+	/usr/local/go/src/syscall/syscall_unix.go:286 +0xaf
+internal/poll.(*FD).ReadFrom(0xc000320c80, 0xc0127b6000, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:215 +0x124
+net.(*netFD).readFrom(0xc000320c80, 0xc0127b6000, 0x2000, 0x2000, 0x480, 0x0, 0xc027832d80, 0xc0033f4f40, 0xc17229)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc000010590, 0xc0127b6000, 0x2000, 0x2000, 0x47c, 0xc02758dce0, 0x0, 0x0)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc000010590, 0xc0127b6000, 0x2000, 0x2000, 0x2000, 0x1058d80, 0xc02758dce0, 0x106d940, 0xc0003f0540)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ice.(*candidateBase).recvLoop(0xc0000948c0)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:92 +0x117
+created by github.com/pion/ice.(*candidateBase).start
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:81 +0xe0
+
+goroutine 85007 [chan receive, 71 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc0000aa420)
+	~/ion/pkg/rtc/router.go:107 +0x92
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 85006 [chan receive, 71 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc0000aa420)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 85005 [chan receive, 71 minutes]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002961e0, 0xc0002b9f98, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc0000aa420)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 845593 [IO wait, 19 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5a08, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc000320e18, 0x72, 0x2000, 0x2000, 0x0)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).ReadFrom(0xc000320e00, 0xc0129e4000, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:219 +0x1a3
+net.(*netFD).readFrom(0xc000320e00, 0xc0129e4000, 0x2000, 0x2000, 0xc0057b6710, 0x40e0c6, 0x7ff640161108, 0x5161a855d420e465, 0xc0129e4000)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc0000105a8, 0xc0129e4000, 0x2000, 0x2000, 0x7781f57bc609f3e6, 0x293851a8b0882ee1, 0xc0057b6740, 0x44d8bc)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc0000105a8, 0xc0129e4000, 0x2000, 0x2000, 0x749b179eee7f0dd6, 0x91b39d0155f74351, 0x5984e76bb29e967e, 0xf5cf4369e89c0b1d, 0x58716663de5d7e46)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ice.(*candidateBase).recvLoop(0xc0000950e0)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:92 +0x117
+created by github.com/pion/ice.(*candidateBase).start
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:81 +0xe0
+
+goroutine 845600 [chan receive]:
+github.com/pion/ion/pkg/rtc.(*Router).jitter.func1(0xc0001309a0)
+	~/ion/pkg/rtc/router.go:170 +0x8d
+created by github.com/pion/ion/pkg/rtc.(*Router).jitter
+	~/ion/pkg/rtc/router.go:163 +0x3f
+
+goroutine 845626 [select, 19 minutes]:
+github.com/pion/dtls/v2/internal/net/connctx.(*connCtx).Read.func1(0xc012d4e120, 0x1065520, 0xc01253d1c0, 0xc01253d100, 0xc012b295d0, 0xc012c013e0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/internal/net/connctx/connctx.go:62 +0xeb
+created by github.com/pion/dtls/v2/internal/net/connctx.(*connCtx).Read
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/internal/net/connctx/connctx.go:60 +0x181
+
+goroutine 845594 [IO wait, 19 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5ae8, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc000320e98, 0x72, 0x2000, 0x2000, 0x0)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).ReadFrom(0xc000320e80, 0xc0129f4000, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:219 +0x1a3
+net.(*netFD).readFrom(0xc000320e80, 0xc0129f4000, 0x2000, 0x2000, 0xc000459710, 0x40e0c6, 0x7ff640161108, 0x459665, 0xc0129f4000)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc0000105b0, 0xc0129f4000, 0x2000, 0x2000, 0xf27708, 0xc000459760, 0xc000459740, 0x44d8bc)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc0000105b0, 0xc0129f4000, 0x2000, 0x2000, 0x7, 0x4757b7, 0xc0001e0700, 0xd5f760, 0xc000109ef0)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ice.(*candidateBase).recvLoop(0xc000095220)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:92 +0x117
+created by github.com/pion/ice.(*candidateBase).start
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:81 +0xe0
+
+goroutine 43 [chan receive, 95 minutes]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002960f0, 0xc0002b4798, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc000130c60)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 44 [chan receive, 95 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc000130c60)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 45 [chan receive, 95 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc000130c60)
+	~/ion/pkg/rtc/router.go:107 +0x92
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 47 [chan receive, 103 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc000130c60, 0xc0002960f0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 315226 [chan receive, 70 minutes]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002963c0, 0xc00045c798, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc0000aa4d0)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 845596 [sleep]:
+time.Sleep(0x3b9aca00)
+	/usr/local/go/src/runtime/time.go:188 +0xba
+github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).pliLoop.func1(0xc012210730)
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:194 +0x69
+created by github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).pliLoop
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:184 +0x3f
+
+goroutine 845601 [chan receive, 19 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc0001309a0, 0xc0002965a0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 845610 [runnable]:
+io.ReadAtLeast(0x104c9a0, 0xc02758dd10, 0xc02782e231, 0x1, 0x1, 0x1, 0x1, 0x0, 0x0)
+	/usr/local/go/src/io/io.go:304
+io.ReadFull(...)
+	/usr/local/go/src/io/io.go:329
+encoding/binary.Read(0x104c9a0, 0xc02758dd10, 0x106b3c0, 0x1737c18, 0xd460c0, 0xc02782e1ef, 0xc017b39200, 0x66)
+	/usr/local/go/src/encoding/binary/binary.go:166 +0x4e0
+github.com/pion/webrtc/v2/internal/mux.isRTCP(0xc017b39200, 0x66, 0x5b4, 0xc019bda401)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/muxfunc.go:84 +0xfc
+github.com/pion/webrtc/v2/internal/mux.MatchSRTP(0xc017b39200, 0x66, 0x5b4, 0xc012036700)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/muxfunc.go:95 +0x78
+github.com/pion/webrtc/v2/internal/mux.(*Mux).dispatch(0xc012a4cd20, 0xc017b39200, 0x66, 0x5b4, 0x66, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/mux.go:123 +0xe5
+github.com/pion/webrtc/v2/internal/mux.(*Mux).readLoop(0xc012a4cd20)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/mux.go:111 +0xea
+created by github.com/pion/webrtc/v2/internal/mux.NewMux
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/mux.go:44 +0x127
+
+goroutine 85009 [chan receive, 95 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc0000aa420, 0xc0002961e0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 845606 [select]:
+github.com/pion/ice.(*Agent).startConnectivityChecks.func1.1(0xc0000a1200)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/agent.go:612 +0xf4
+created by github.com/pion/ice.(*Agent).startConnectivityChecks.func1
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/agent.go:602 +0x18d
+
+goroutine 308517 [chan receive, 19 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc000130840)
+	~/ion/pkg/rtc/router.go:107 +0x92
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 845597 [chan receive]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002965a0, 0xc0002b7f98, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc0001309a0)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 845591 [IO wait, 19 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5848, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc000320d18, 0x72, 0x2000, 0x2000, 0x0)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).ReadFrom(0xc000320d00, 0xc0127e2000, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:219 +0x1a3
+net.(*netFD).readFrom(0xc000320d00, 0xc0127e2000, 0x2000, 0x2000, 0xc00045bf10, 0x40e0c6, 0x7ff640161108, 0xc00035d265, 0xc0127e2000)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc000010598, 0xc0127e2000, 0x2000, 0x2000, 0xdb4620, 0xc00045bf58, 0xc00045bf40, 0x44d8bc)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc000010598, 0xc0127e2000, 0x2000, 0x2000, 0x0, 0xdb4620, 0xc002cc95f0, 0xc0000e38f0, 0xc0000e38f0)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ice.(*candidateBase).recvLoop(0xc000094a00)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:92 +0x117
+created by github.com/pion/ice.(*candidateBase).start
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:81 +0xe0
+
+goroutine 308519 [chan receive, 71 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc000130840, 0xc0002962d0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 308515 [chan receive, 19 minutes]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002962d0, 0xc00045cf98, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc000130840)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 845630 [select]:
+github.com/pion/transport/packetio.(*Buffer).Read(0xc012d760f0, 0xc027824000, 0x5b4, 0x5b4, 0xc000147880, 0x7ff640161108, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/transport@v0.10.0/packetio/buffer.go:146 +0x142
+github.com/pion/srtp.(*ReadStreamSRTP).Read(...)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/stream_srtp.go:69
+github.com/pion/webrtc/v2.(*RTPReceiver).readRTP(0xc012067e00, 0xc027824000, 0x5b4, 0x5b4, 0x600, 0xd62be0, 0x1)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/rtpreceiver.go:155 +0x70
+github.com/pion/webrtc/v2.(*Track).Read(0xc019bda990, 0xc027824000, 0x5b4, 0x5b4, 0x406b65, 0xc0120679e0, 0xc00040bf60)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/track.go:97 +0xf1
+github.com/pion/webrtc/v2.(*Track).ReadRTP(0xc019bda990, 0xc00040bf60, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/track.go:103 +0x72
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).receiveInTrackRTP(0xc0002965a0, 0xc019bda990)
+	~/ion/pkg/rtc/transport/webrtctransport.go:331 +0x75
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).Answer.func1(0xc019bda990, 0xc012067e00)
+	~/ion/pkg/rtc/transport/webrtctransport.go:270 +0xb0
+created by github.com/pion/webrtc/v2.(*PeerConnection).onTrack
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:272 +0x117
+
+goroutine 315228 [chan receive, 70 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc0000aa4d0)
+	~/ion/pkg/rtc/router.go:107 +0x92
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 845631 [select]:
+github.com/pion/transport/packetio.(*Buffer).Read(0xc012d76230, 0xc02781a000, 0x5b4, 0x5b4, 0xc000147880, 0x7ff640161108, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/transport@v0.10.0/packetio/buffer.go:146 +0x142
+github.com/pion/srtp.(*ReadStreamSRTP).Read(...)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/stream_srtp.go:69
+github.com/pion/webrtc/v2.(*RTPReceiver).readRTP(0xc012067da0, 0xc02781a000, 0x5b4, 0x5b4, 0x600, 0xd62be0, 0x1)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/rtpreceiver.go:155 +0x70
+github.com/pion/webrtc/v2.(*Track).Read(0xc019bdaa20, 0xc02781a000, 0x5b4, 0x5b4, 0x406b65, 0xc0120679e0, 0xc00040c760)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/track.go:97 +0xf1
+github.com/pion/webrtc/v2.(*Track).ReadRTP(0xc019bdaa20, 0xc00040c760, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/track.go:103 +0x72
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).receiveInTrackRTP(0xc0002965a0, 0xc019bdaa20)
+	~/ion/pkg/rtc/transport/webrtctransport.go:331 +0x75
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).Answer.func1(0xc019bdaa20, 0xc012067da0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:270 +0xb0
+created by github.com/pion/webrtc/v2.(*PeerConnection).onTrack
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:272 +0x117
+
+goroutine 319376 [chan receive, 70 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc000130a50, 0xc0002964b0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 319374 [chan receive, 63 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).handle.func1(0xc000130a50)
+	~/ion/pkg/rtc/router.go:107 +0x92
+created by github.com/pion/ion/pkg/rtc.(*Router).handle
+	~/ion/pkg/rtc/router.go:99 +0x3f
+
+goroutine 308516 [chan receive, 19 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc000130840)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 845592 [IO wait, 19 minutes]:
+internal/poll.runtime_pollWait(0x7ff63ffe5928, 0x72, 0x0)
+	/usr/local/go/src/runtime/netpoll.go:203 +0x55
+internal/poll.(*pollDesc).wait(0xc000320d98, 0x72, 0x2000, 0x2000, 0x0)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:87 +0x45
+internal/poll.(*pollDesc).waitRead(...)
+	/usr/local/go/src/internal/poll/fd_poll_runtime.go:92
+internal/poll.(*FD).ReadFrom(0xc000320d80, 0xc01298e000, 0x2000, 0x2000, 0x0, 0x0, 0x0, 0x0, 0x0)
+	/usr/local/go/src/internal/poll/fd_unix.go:219 +0x1a3
+net.(*netFD).readFrom(0xc000320d80, 0xc01298e000, 0x2000, 0x2000, 0xc00043af10, 0x40e0c6, 0x7ff640161108, 0xc000072765, 0xc01298e000)
+	/usr/local/go/src/net/fd_unix.go:208 +0x5b
+net.(*UDPConn).readFrom(0xc0000105a0, 0xc01298e000, 0x2000, 0x2000, 0xf27700, 0xc000334300, 0xc00043af40, 0x44d8bc)
+	/usr/local/go/src/net/udpsock_posix.go:47 +0x6a
+net.(*UDPConn).ReadFrom(0xc0000105a0, 0xc01298e000, 0x2000, 0x2000, 0xc00043afc0, 0xc6bed7, 0xc00e7c6a20, 0xc00043afa0, 0x43f596)
+	/usr/local/go/src/net/udpsock.go:118 +0x5d
+github.com/pion/ice.(*candidateBase).recvLoop(0xc000094fa0)
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:92 +0x117
+created by github.com/pion/ice.(*candidateBase).start
+	/home/network/work/pkg/mod/github.com/pion/ice@v0.7.10/candidate_base.go:81 +0xe0
+
+goroutine 845595 [sleep]:
+time.Sleep(0x77359400)
+	/usr/local/go/src/runtime/time.go:188 +0xba
+github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).rembLoop.func1(0xc012210730)
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:152 +0x69
+created by github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).rembLoop
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:141 +0x3f
+
+goroutine 845598 [runnable]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc0001309a0)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 319372 [chan receive, 63 minutes]:
+github.com/pion/ion/pkg/rtc/transport.(*WebRTCTransport).ReadRTP(0xc0002964b0, 0xc00043c798, 0x0, 0x0)
+	~/ion/pkg/rtc/transport/webrtctransport.go:344 +0x49
+github.com/pion/ion/pkg/rtc.(*Router).in.func1(0xc000130a50)
+	~/ion/pkg/rtc/router.go:83 +0x96
+created by github.com/pion/ion/pkg/rtc.(*Router).in
+	~/ion/pkg/rtc/router.go:71 +0x3f
+
+goroutine 315230 [chan receive, 70 minutes]:
+github.com/pion/ion/pkg/node/sfu.handleTrickle(0xc0000aa4d0, 0xc0002963c0)
+	~/ion/pkg/node/sfu/internal.go:50 +0x1fd
+created by github.com/pion/ion/pkg/node/sfu.publish
+	~/ion/pkg/node/sfu/internal.go:89 +0x437
+
+goroutine 315227 [chan receive, 70 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc0000aa4d0)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 319373 [chan receive, 63 minutes]:
+github.com/pion/ion/pkg/rtc.(*Router).out.func1(0xc000130a50)
+	~/ion/pkg/rtc/router.go:134 +0x88
+created by github.com/pion/ion/pkg/rtc.(*Router).out
+	~/ion/pkg/rtc/router.go:127 +0x3f
+
+goroutine 845633 [chan receive]:
+github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).nackLoop.func1(0xc01d564000, 0xc012210730)
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:131 +0x77
+created by github.com/pion/ion/pkg/rtc/plugins.(*JitterBuffer).nackLoop
+	~/ion/pkg/rtc/plugins/jitterbuffer.go:130 +0x49
+
+goroutine 845621 [chan receive, 19 minutes]:
+github.com/pion/srtp.(*SessionSRTP).AcceptStream(0xc000325040, 0xc000325040, 0x0, 0x0, 0x43f596)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session_srtp.go:93 +0x45
+github.com/pion/webrtc/v2.(*PeerConnection).drainSRTP.func2(0xc00008a820, 0xc012b294e0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:963 +0x57
+created by github.com/pion/webrtc/v2.(*PeerConnection).drainSRTP
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:955 +0x74
+
+goroutine 845622 [chan receive, 19 minutes]:
+github.com/pion/srtp.(*SessionSRTCP).AcceptStream(0xc0003250e0, 0xc0003250e0, 0x0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session_srtcp.go:92 +0x45
+github.com/pion/webrtc/v2.(*PeerConnection).drainSRTP.func3(0xc00008a820)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:983 +0xa2
+created by github.com/pion/webrtc/v2.(*PeerConnection).drainSRTP
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/peerconnection.go:975 +0x96
+
+goroutine 845623 [select, 19 minutes]:
+github.com/pion/dtls/v2.(*Conn).Read(0xc0000b9b80, 0xc012f00000, 0x2000, 0x2000, 0x1, 0x1, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:278 +0x14b
+github.com/pion/sctp.(*Association).readLoop(0xc00008b860)
+	/home/network/work/pkg/mod/github.com/pion/sctp@v1.7.6/association.go:421 +0x175
+created by github.com/pion/sctp.(*Association).init
+	/home/network/work/pkg/mod/github.com/pion/sctp@v1.7.6/association.go:298 +0xa1
+
+goroutine 845627 [select]:
+github.com/pion/transport/packetio.(*Buffer).Read(0xc012a4ce60, 0xc01301c000, 0x2000, 0x2000, 0x0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/transport@v0.10.0/packetio/buffer.go:146 +0x142
+github.com/pion/webrtc/v2/internal/mux.(*Endpoint).Read(0xc012b285b0, 0xc01301c000, 0x2000, 0x2000, 0x0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/endpoint.go:36 +0x4d
+github.com/pion/srtp.(*session).start.func1(0xc000325040, 0xc012b29630, 0x1061b60, 0xc000325040)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session.go:130 +0xb6
+created by github.com/pion/srtp.(*session).start
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session.go:117 +0x226
+
+goroutine 845628 [runnable]:
+github.com/pion/srtp.destinationSSRC(0xc02755be00, 0x2, 0x2, 0xc02755be00, 0x2, 0x2)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session_srtcp.go:138 +0x1ca
+github.com/pion/srtp.(*SessionSRTCP).decrypt(0xc0003250e0, 0xc012e04000, 0x46, 0x2000, 0x46, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session_srtcp.go:156 +0xff
+github.com/pion/srtp.(*session).start.func1(0xc0003250e0, 0xc012b29690, 0x1061b20, 0xc0003250e0)
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session.go:138 +0x132
+created by github.com/pion/srtp.(*session).start
+	/home/network/work/pkg/mod/github.com/pion/srtp@v1.3.1/session.go:117 +0x226
+
+goroutine 845612 [select, 19 minutes]:
+github.com/pion/transport/packetio.(*Buffer).Read(0xc012a4cdc0, 0xc0003e6000, 0x2000, 0x2000, 0x30, 0xc0033f2d80, 0xb7d8f1)
+	/home/network/work/pkg/mod/github.com/pion/transport@v0.10.0/packetio/buffer.go:146 +0x142
+github.com/pion/webrtc/v2/internal/mux.(*Endpoint).Read(0xc012b285a0, 0xc0003e6000, 0x2000, 0x2000, 0xc01253d1c0, 0xc01253d100, 0xc012b295d0)
+	/home/network/work/pkg/mod/github.com/pion/webrtc/v2@v2.2.5-0.20200329193949-862d30743ef3/internal/mux/endpoint.go:36 +0x4d
+github.com/pion/dtls/v2/internal/net/connctx.(*connCtx).Read(0xc01253d100, 0x1065520, 0xc01253d1c0, 0xc0003e6000, 0x2000, 0x2000, 0x0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/internal/net/connctx/connctx.go:77 +0x1c1
+github.com/pion/dtls/v2.(*Conn).readAndBuffer(0xc0000b9b80, 0x1065520, 0xc01253d1c0, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:583 +0x10d
+github.com/pion/dtls/v2.(*Conn).handshake.func3(0xc0000b9b80, 0xc012b28700, 0x1065520, 0xc01253d1c0, 0xc012532600)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:857 +0xce
+created by github.com/pion/dtls/v2.(*Conn).handshake
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:846 +0x2f0
+
+goroutine 845611 [select, 19 minutes]:
+github.com/pion/dtls/v2.(*handshakeFSM).finish(0xc01253d180, 0x1065520, 0xc01253d200, 0x10677e0, 0xc0000b9b80, 0x3, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/handshaker.go:288 +0x21a
+github.com/pion/dtls/v2.(*handshakeFSM).Run(0xc01253d180, 0x1065520, 0xc01253d200, 0x10677e0, 0xc0000b9b80, 0x48b301, 0x0, 0x0)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/handshaker.go:159 +0x3b9
+github.com/pion/dtls/v2.(*Conn).handshake.func2(0xc0000b9b80, 0x1065520, 0xc01253d200, 0x203001, 0xc012532600)
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:838 +0x9c
+created by github.com/pion/dtls/v2.(*Conn).handshake
+	/home/network/work/pkg/mod/github.com/pion/dtls/v2@v2.0.0-rc.9/conn.go:836 +0x2a0
+
+goroutine 845624 [select, 14 minutes]:
+github.com/pion/sctp.(*Association).writeLoop(0xc00008b860)
+	/home/network/work/pkg/mod/github.com/pion/sctp@v1.7.6/association.go:456 +0x18b
+created by github.com/pion/sctp.(*Association).init
+	/home/network/work/pkg/mod/github.com/pion/sctp@v1.7.6/association.go:299 +0xc6
