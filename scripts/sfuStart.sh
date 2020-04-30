@@ -44,7 +44,8 @@ if [ ! -r $CONFIG ]; then
 fi
 
 ## build first
-cd $APP_DIR/cmd/$EXE
+cd $APP_DIR/../$EXE
+pwd
 echo "go build -o $COMMAND"
 go build -o $COMMAND
 cd $APP_DIR
