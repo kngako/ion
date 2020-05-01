@@ -38,7 +38,7 @@ class LocalVideoView extends React.Component {
 
     return (
         <div className="local-video-container" style={{ borderWidth: `${this.state.minimize ? '0px' : '0.5px'}` }}>
-          <video
+          <audio
             ref={ref => {
               this.video = ref;
             }}

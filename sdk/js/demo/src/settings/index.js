@@ -94,12 +94,12 @@ export default class MediaSettings extends React.Component {
             if (this.state.selectedAudioDevice === "" && data.audioDevices.length > 0) {
                 this.state.selectedAudioDevice = data.audioDevices[0].deviceId;
             }
-            if (this.state.selectedVideoDevice === "" && data.videoDevices.length > 0) {
-                this.state.selectedVideoDevice = data.videoDevices[0].deviceId;
-            }
+            // if (this.state.selectedVideoDevice === "" && data.videoDevices.length > 0) {
+            //     this.state.selectedVideoDevice = data.videoDevices[0].deviceId;
+            // }
 
             this.setState({
-                videoDevices: data.videoDevices,
+                // videoDevices: data.videoDevices,
                 audioDevices: data.audioDevices,
                 audioOutputDevices: data.audioOutputDevices,
              })

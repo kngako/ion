@@ -26,7 +26,7 @@ class App extends React.Component {
       login: false,
       loading: false,
       localAudioEnabled: true,
-      localVideoEnabled: true,
+      localVideoEnabled: false,
       screenSharingEnabled: false,
       collapsed: true,
       isFullScreen: false,
@@ -113,7 +113,7 @@ class App extends React.Component {
       login: true, 
       loading: false, 
       loginInfo: values,
-      localVideoEnabled: !values.audioOnly,
+      localVideoEnabled: false,
     });
 
     this._notification(

@@ -33,7 +33,7 @@ class Conference extends React.Component {
       resolution: settings.resolution,
       bandwidth: settings.bandwidth,
       audio: true,
-      video: type === "video",
+      video: false,
       screen: type === "screen"
     });
     return stream;

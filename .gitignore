@@ -22,3 +22,4 @@ node_modules/
 configs/*.pid
 nohup.out
 sdk/js/demo/dist/
+sdk/js/dist/

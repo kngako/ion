@@ -13,7 +13,7 @@ class LoginForm extends React.Component {
 
     let roomId = 'room1';
     let displayName = 'Guest';
-    let audioOnly = false;
+    let audioOnly = true;
 
     let localStorage = reactLocalStorage.getObject("loginInfo");
 
@@ -84,16 +84,6 @@ class LoginForm extends React.Component {
               }
               placeholder="Display Name"
             />
-          )}
-        </Form.Item>
-        <Form.Item>
-          {getFieldDecorator('audioOnly', {
-            valuePropName: 'checked',
-            initialValue: true,
-          })(
-            <Checkbox>
-              Audio only
-            </Checkbox>
           )}
         </Form.Item>
         <Form.Item>

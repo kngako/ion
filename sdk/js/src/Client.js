@@ -3,7 +3,6 @@ import protooClient from 'protoo-client';
 import uuidv4 from 'uuid/v4';
 import Stream from './Stream';
 import * as sdpTransform from 'sdp-transform';
-import adapter from 'webrtc-adapter';
 
 const ices = 'stun:stun.stunprotocol.org:3478';
 
@@ -73,7 +72,7 @@ export default class Client extends EventEmitter {
         }
     }
 
-    async publish(options = { audio: true, video: true, screen: false, codec: 'h264', resolution: 'hd', bandwidth: 1024 }) {
+    async publish(options = { audio: true, video: true, screen: false, codec: 'vp8', resolution: 'hd', bandwidth: 1024 }) {
         console.log('publish options => %o', options);
         var promise = new Promise(async (resolve, reject) => {
             try {
@@ -340,7 +339,7 @@ export default class Client extends EventEmitter {
     }
 
     _getProtooUrl(pid) {
-        return `ws://localhost:8080/ws?peer=${pid}`;
+        return `wss://ws.sigidli.com/ws?peer=${pid}`;
     }
 
     _handleRequest(request, accept, reject) {
