@@ -72,7 +72,7 @@ export default class Client extends EventEmitter {
         }
     }
 
-    async publish(options = { audio: true, video: true, screen: false, codec: 'vp8', resolution: 'hd', bandwidth: 1024 }) {
+    async publish(options = { audio: true, video: true, screen: false, codec: 'pcmu', resolution: 'hd', bandwidth: 1024 }) {
         console.log('publish options => %o', options);
         var promise = new Promise(async (resolve, reject) => {
             try {

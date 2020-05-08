@@ -6,7 +6,6 @@ import { reactLocalStorage } from "reactjs-localstorage";
 import MicrophoneIcon from "mdi-react/MicrophoneIcon";
 import MicrophoneOffIcon from "mdi-react/MicrophoneOffIcon";
 import HangupIcon from "mdi-react/PhoneHangupIcon";
-import MediaSettings from './settings';
 import ToolShare from './ToolShare';
 import ChatFeed from './chat/index';
 import Message from './chat/message';
@@ -116,7 +115,7 @@ class App extends React.Component {
       "Connected!",
       "Welcome to the ion room => " + values.roomId
     );
-    await this.conference.handleLocalStream(true);
+    // await this.conference.handleLocalStream(false);
   };
 
   _handleLeave = async () => {
@@ -293,9 +292,6 @@ class App extends React.Component {
           ) : (
               <div />
             )}
-          <div className="app-header-right">
-            <MediaSettings onMediaSettingsChanged={this._onMediaSettingsChanged} settings={this._settings} />
-          </div>
         </Header>
 
         <Content className="app-center-layout">
@@ -353,7 +349,7 @@ class App extends React.Component {
           ) : loading ? (
             <Spin size="large" tip="Connecting..." />
           ) : (
-                <Card title="Go live" className="app-login-card">
+                <Card title="Listen to Current" className="app-login-card">
                   <LoginForm handleLogin={this._handleJoin} />
                 </Card>
               )}

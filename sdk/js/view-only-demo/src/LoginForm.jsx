@@ -21,9 +21,9 @@ class LoginForm extends React.Component {
       displayName = localStorage.displayName;
     }
 
-    if (params && params.hasOwnProperty('room')) {
+    if (params && params.hasOwnProperty('current')) {
       // TODO: load wave details
-      roomId = params.room;
+      roomId = params.current;
     }
 
     if (roomId == null) {
@@ -89,7 +89,7 @@ class LoginForm extends React.Component {
         </Form.Item>
         <Form.Item>
           <Button type="primary" htmlType="submit" className="login-join-button">
-            go live
+            catch current
           </Button>
         </Form.Item>
       </Form>
